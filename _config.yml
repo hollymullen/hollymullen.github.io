@@ -36,15 +36,15 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Holly Mullen
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: contact@hollymullen.legal
   disqus-shortname:
   twitter: #username
   facebook: #username
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: holly-mullen-44212313b
   instagram: #username
   flickr: #username
   tumblr: #username
