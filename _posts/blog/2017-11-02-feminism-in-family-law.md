@@ -3,7 +3,7 @@ layout: post
 title: "Feminism in Family Law"
 modified:
 categories: blog
-excerpt:
+excerpt: "Feminism is defined as the advocacy of women's rights on the ground of the equality of the sexes (Oxford English Dictionary). This piece therefore intends to explore the difficulty that the law has notoriously had, or some would argue still has, in treating the sexes equally in proceedings on divorce, separation or in children matters."
 tags: []
 image:
   feature:
@@ -30,10 +30,17 @@ The repercussions of this inequality can sometimes be frustrating, upsetting or 
 All in all, there have been gross inequalities between the respective treatment of men and women in Family Law. In an ideal world, mothers and fathers and husbands and wives would automatically be accorded the same rights and there would be no question about this. Unfortunately, global views about the respective roles of men and women still has echoes in today's law. Women having been viewed as the ‘property’ of their husbands and men having been viewed as money-earners, their fatherhood status less important as their role was to financially support the family, has had an effect which is difficult to shift. Things, however, do appear to be moving in the right direction with significant decisions such as that of White v White. Although feminists have had a difficult battle in advancing women’s rights within this area of the law, there is certainly a much fairer, yet still imperfect, system today.
 
 [1] Divorce and Matrimonial Causes Act 1857 (although this was the law before this Act!)
+
 [2] Matrimonial Causes Act 1923
+
 [3] Re G (Education: Religious Upbringing) [2010] EWCA Civ 1233 [24]
+
 [4] Ampthill Peerage Case [1977] AC 547
+
 [5] Human Fertilisation and Embryology Act 2008 Section 33(1)
+
 [6] ibid, Section 41
+
 [7] Re G (Children) (Residence: Same-Sex Partner) [2006] 1 WLR 2305 Lord Scott [3]
+
 [8] McMichael v UK (Application no. 16424/90) Strasbourg Judgement of 24/02/1995 [98]
