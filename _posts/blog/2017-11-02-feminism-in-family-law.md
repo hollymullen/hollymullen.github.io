@@ -31,16 +31,16 @@ All in all, there have been gross inequalities between the respective treatment 
 
 <a name="1">[1]</a> Divorce and Matrimonial Causes Act 1857 (although this was the law before this Act!)
 
-<a name="2">[1]</a> Matrimonial Causes Act 1923
+<a name="2">[2]</a> Matrimonial Causes Act 1923
 
-<a name="3">[1]</a> Re G (Education: Religious Upbringing) [2010] EWCA Civ 1233 [24]
+<a name="3">[3]</a> Re G (Education: Religious Upbringing) [2010] EWCA Civ 1233 [24]
 
-<a name="4">[1]</a> Ampthill Peerage Case [1977] AC 547
+<a name="4">[4]</a> Ampthill Peerage Case [1977] AC 547
 
-<a name="5">[1]</a> Human Fertilisation and Embryology Act 2008 Section 33(1)
+<a name="5">[5]</a> Human Fertilisation and Embryology Act 2008 Section 33(1)
 
-<a name="6">[1]</a> ibid, Section 41
+<a name="6">[6]</a> ibid, Section 41
 
-<a name="7">[1]</a> Re G (Children) (Residence: Same-Sex Partner) [2006] 1 WLR 2305 Lord Scott [3]
+<a name="7">[7]</a> Re G (Children) (Residence: Same-Sex Partner) [2006] 1 WLR 2305 Lord Scott [3]
 
-<a name="8">[1]</a> McMichael v UK (Application no. 16424/90) Strasbourg Judgement of 24/02/1995 [98]
+<a name="8">[8]</a> McMichael v UK (Application no. 16424/90) Strasbourg Judgement of 24/02/1995 [98]
