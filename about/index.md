@@ -1,24 +1,12 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: Holly Mullen
+excerpt: 
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: law-banner.jpeg  
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
 
-## So Simple Theme is all about:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+Holly graduated in the summer of 2017 with a first class honours LLB Law degree and, as such, is keen to explore the legal world in practice. Holly previously volunteered with her University's Law Clinic and assisted in providing free legal advice in the areas of employment, housing and commercial issues. With her current role in a Family Law practice, she mainly focuses her interest in the debates surrounding children, parents and spouses.
