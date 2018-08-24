@@ -32,8 +32,13 @@ At Hawkins Family Law, we can advise you in relation to financial proceedings fo
 
 
 <a name="1">[1]</a> Miller v Miller; McFarlane v McFarlane [2006] UKHL 24 per Baroness Hale [44]
+
 <a name="2">[2]</a> HMRC Policy Paper, ‘Revenue and Customs Brief 9 (2014): Bitcoin and other cryptocurrencies’ (3rd March 2014) <https://www.gov.uk/government/publications/revenue-and-customs-brief-9-2014-bitcoin-and-other-cryptocurrencies/revenue-and-customs-brief-9-2014-bitcoin-and-other-cryptocurrencies> accessed 30/12/2017
+
 <a name="3">[3]</a> Bitcoin Price Chart <https://charts.bitcoin.com/chart/price> accessed 30/12/2017
+
 <a name="4">[4]</a> Florida v Espinoza, Case Number: F14-2923 22nd July 2016
+
 <a name="5">[5]</a> Family Procedure Rule (FPR) 28.3
+
 <a name="6">[6]</a> Young v Young [2013] EWHC 3637 (Fam)
