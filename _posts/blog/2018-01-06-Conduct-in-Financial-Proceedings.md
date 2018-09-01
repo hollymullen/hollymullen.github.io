@@ -15,7 +15,7 @@ A persistent issue in Family Law is whether a Court should ‘judge’ divorcing
 
 S25 of the Matrimonial Causes Act (MCA) 1973 sets out the factors which a Court should take into consideration when deciding how to split the matrimonial assets. S25(2)(g) states; ‘the conduct of each of the parties, if that conduct is such that in the opinion of the court it would be inequitable to disregard it’. Usually, after making provision for each party’s needs, the Court will divide the remaining finances equally, however, weight will be attached to any conduct which is ‘both gross and obvious’,[[1]](#1) thus ensuring the overarching principle of fairness is upheld. When making this assessment, a distinction is drawn between a person’s conduct in a financial and non-financial sense.
 
-General Conduct
+**General Conduct**
 
 For non-finance related conduct, notoriously, those citing adultery as the fact which caused the irretrievable breakdown of their marriage (s1(2)(a) MCA) once would have had this taken into account. Traditionally, the adulterer was given a reduced financial award with regard to this section; the justification being the sanctity of marriage which must be preserved. Thus, Courts would reduce the awards granted with the intention of deterring other potential adulterers. 
 
@@ -25,7 +25,7 @@ In another case, the husband attacked his wife with knives in front of their chi
 
 On the other hand, the type of general conduct which may be considered is not always negative, and good conduct can increase an award just as bad conduct can reduce one. In A v A (Financial Provision: Conduct),[[4]](#4) the husband gave up his job and made no effort, however the wife worked hard in the evenings whilst undertaking a University degree. The Court considered their respective conduct and awarded the wife a greater amount.
 
-Financial Conduct
+**Financial Conduct**
  
 Financial conduct is a different matter. On rare occasions a Court may, after making provision for the needs of the respective parties, consider financial misconduct where one spouse has dissipated the assets for example by gambling, purchasing expensive goods or services or investing money irresponsibly. In these cases, there is an option available to the Court to ‘add-back’ those spent finances, treating them as though they were still held by the party. This, nevertheless, is not an easy argument to succeed with.
 
