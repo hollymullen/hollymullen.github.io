@@ -39,6 +39,9 @@ Overall, this is clearly not a cut and dry issue. On the one hand, fairness dict
 
 
 <a name="1">[1]</a> Wachtel v Wachtel [1973] Fam 72
+
 <a name="2">[2]</a> K V K (Financial Provision: Conduct) [1990] 2 FLR 225
+
 <a name="3">[3]</a> H V H (Financial Relief: Attempted Murder As Conduct) [2006] FAM LAW 264
+
 <a name="4">[4]</a> [1995] 1 FLR 345    
