@@ -24,7 +24,7 @@ Irretrievable breakdown is greater than simply ‘drifting apart’ i.e. not doi
 
 If the divorce/dissolution is not opposed by the Respondent (the party who reeives, not completes, the petition) then the veracity of the statements relied upon as the fact causing the irretrievable breakdown will not be investigated by the Court. If contested, the Court has a duty to enquire (s1(3) MCA 1973).
 
-*Adultery*
+**Adultery**
 
 To petition for divorce based on a spouse’s adultery, there must have been consensual sexual intercourse with a person of the opposite sex who is not a party to the marriage.[[2]](#2) Interestingly, adultery is not available for same-sex partners. 
 
@@ -32,7 +32,7 @@ If the respondent in the divorce admits the adultery, they may be asked to sign 
 
 Furthermore, to satisfy the requirements for divorce, the petitioner has to prove that they find it intolerable to live with the respondent. This part does not have to be due to the adultery,[[3]](#3) but is undone if the petitioner continues to live with the respondent for six months following the last known incident of adultery (S2(1) MCA 1973). If they do, it is assumed that the marriage has not irretreviably broken down and the couple may not be granted a divorce. 
 
-*Behaviour*
+**Behaviour**
 
 The second fact proving the ground for divorce is referred to colloquially as ‘unreasonable behaviour’. This refers to the two requirements, being the respondent’s behaviour on its own and then that the petitioner accordingly cannot reasonably be expected to live with them. 
 
@@ -44,17 +44,17 @@ Similarly to the ground of adultery, a Court will consider petitions where the p
 
 Unfortunately, the law does not yet allow ‘amicable’ divorces, and therefore the majority of petitions fall under the unreasonable behaviour ground, which forces couples to identify fault in their former partners. Where many divorces could start out amicable, they are then pushed by the law into identifying and relying on negative points.
 
-*Two Years’ Separation with Consent*
+**Two Years’ Separation with Consent**
 
 This is a significant ground acknowledging that a divorce can be obtained with the consent of both parties. Unlike adultery or behaviour, it is a non-blameworthy fact and requires the parties to have been living apart and for them both to consent to the divorce going ahead. Although the MCA stipulates that a separation is to be found unless the parties are living in the same household (Section 2(6)), a divorce can be granted where they can show that they are living separate lives although under the same roof.[[8]](#8) However, the bar for this is rather high and will not be satisfied where the parties, for example, cook meals for one another or share the household chores.[[9]](#9) 
 
 The separation must be for a continuous period of two years, although there is allowance for the parties to resume living together for up to six months (S2 (5) MCA) – any more than this and the accruement will reset.
 
-*Five Years’ Separation without Consent*
+**Five Years’ Separation without Consent**
 
 If the parties have lived separately for 5 years or more, one can obtain a divorce without the other’s consent. Formerly controversial, there are occasions where a respondent under this ground can oppose the granting of a divorce on the basis that it would cause grave financial or other hardship to him and it would in all the circumstances be wrong to dissolve the marriage (S5(1) MCA) although this is rare.[[10]](#10) 
 
-*Desertion*
+**Desertion**
 
 Not commonly pursued, this fact requires the respondent to have unjustifiably withdrawn themselves from cohabitation without the consent of the other spouse, with the intention of remaining separated permanently. The parties must be factually separated, as in with the ground of separation by living in separate households. The main difference between this and two years’ separation is that the desertion must be against the will of the respondent.
 
