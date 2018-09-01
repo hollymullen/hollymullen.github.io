@@ -34,9 +34,6 @@ Contrarily, in MAP, the wife’s argument for a £1.5 million add-back, being th
 
 
 Overall, this is clearly not a cut and dry issue. On the one hand, fairness dictates that the finances should be divided equally after needs have been met whereas, on the other, allowing a former husband or wife to recklessly spend their money so as to reduce the financial reward for the other party sets a worrying precedent and is certainly not fair for the spouse who has behaved reasonably. Malicious frittering away of finances, however, may only occur in the most bitter of divorces, as spending the matrimonial money is clearly a double edged sword in that the spending party will also lose some of what they could have been awarded. 
-
-At Hawkins Family Law, we always advise our clients to be fully cooperative in the Court process; to act reasonably and help prevent any further tension in a situation which we understand may already be extremely challenging. To take your first steps towards specialist advice, give us a call on 01908 262 680 or email enquiries@hawkinsfamilylaw.co.uk
-
  
 
 
